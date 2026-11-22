@@ -1,0 +1,21 @@
+
+# FastAPI and server
+fastapi
+uvicorn[standard]
+
+# Data validation and settings
+pydantic
+pydantic-settings
+
+# HTTP requests and API integrations
+httpx
+
+# Environment variables
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio
+
+
+google-auth-oauthlib
